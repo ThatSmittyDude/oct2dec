@@ -1,6 +1,10 @@
 A simple CLI octal to decimal converter for unix-like systems
 
-Download the oct2dec.cpp file, and then to compile do the following:
+Download the oct2dec.cpp file
+
+g++ must be installed to compile this way:
+
+to compile do the following:
 
 open terminal 
 
